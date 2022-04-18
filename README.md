@@ -9,10 +9,10 @@ my source is : [ bashir pro react basics course ] ( https://www.youtube.com/play
 
 ## day [1] 17 ramadan :-
     * ### before breakfast 
-* [ ] react lists and loops
-* [ ] bacics condithons
-* [ ] life cycle hooks 
-* [ ] important things
+* [x] react lists and loops
+* [x] bacics condithons
+* [x] life cycle hooks 
+* [x] important things
     * ### after breakfast 
 * [ ] Conditions & Loop - conditions before template
 * [ ] Conditions & Loop - print array of objects
