@@ -14,9 +14,9 @@ my source is : [ bashir pro react basics course ] ( https://www.youtube.com/play
 * [x] life cycle hooks 
 * [x] important things
     * ### after breakfast 
-* [ ] Conditions & Loop - conditions before template
-* [ ] Conditions & Loop - print array of objects
-* [ ] Conditions & Loop - Better performance with components
+* [x] Conditions & Loop - conditions before template
+* [x] Conditions & Loop - print array of objects
+* [x] Conditions & Loop - Better performance with components
 * [ ] Todolist app with react
 
 
