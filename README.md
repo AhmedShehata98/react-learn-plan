@@ -17,7 +17,7 @@ my source is : [ bashir pro react basics course ] ( https://www.youtube.com/play
 * [x] Conditions & Loop - conditions before template
 * [x] Conditions & Loop - print array of objects
 * [x] Conditions & Loop - Better performance with components
-* [ ] Todolist app with react
+* [x] Todolist app with react
 
 
 ## day [2] 18 ramadan :-
