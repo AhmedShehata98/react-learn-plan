@@ -17,24 +17,28 @@ my source is : [ bashir pro react basics course ] ( https://www.youtube.com/play
 * [x] Conditions & Loop - conditions before template
 * [x] Conditions & Loop - print array of objects
 * [x] Conditions & Loop - Better performance with components
-* [x] Todolist app with react
 
 
 ## day [2] 18 ramadan :-
+* [x] Todolist app with react
+
+
+## day [3] 19 ramadan :-
     * ### before breakfast 
+ * free
+    * ### after breakfast 
 * [ ] Forms - Controlled components
 * [ ] Forms - Textarea
 * [ ] select 
 * [ ] checkbox
 * [ ] radio
 * [ ] handling multiplie inputs
-    * ### after breakfast 
 * [ ] form about [formik]
 * [ ] formik first form
 * [ ] formik field type 
 * [ ] Fromik - Validation & ErrorMessage Component
 
-## day [3] 19 ramadan :-
+## day [4] 20 ramadan :-
     * ### before breakfast 
 
 * [ ] formik nested objects
@@ -48,7 +52,7 @@ my source is : [ bashir pro react basics course ] ( https://www.youtube.com/play
 * [ ] Styling => using JS to set classes dynamically
 * [ ] Styling => class names packages
 
-## day [4] 20 ramadan :-
+## day [5] 21 ramadan :-
     * ### before breakfast
 
 * [ ] Http Requests => GET Request to fetch data from api
