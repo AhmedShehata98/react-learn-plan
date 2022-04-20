@@ -27,11 +27,11 @@ my source is : [ bashir pro react basics course ] ( https://www.youtube.com/play
     * ### before breakfast 
  * free
     * ### after breakfast 
-* [ ] Forms - Controlled components
-* [ ] Forms - Textarea
+* [x] Forms - Controlled components
+* [x] Forms - Textarea
 * [ ] select 
-* [ ] checkbox
-* [ ] radio
+* [x] checkbox
+* [x] radio
 * [ ] handling multiplie inputs
 * [ ] form about [formik]
 * [ ] formik first form
