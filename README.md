@@ -29,7 +29,7 @@ my source is : [ bashir pro react basics course ] ( https://www.youtube.com/play
     * ### after breakfast 
 * [x] Forms - Controlled components
 * [x] Forms - Textarea
-* [ ] select 
+* [x] select 
 * [x] checkbox
 * [x] radio
 * [ ] handling multiplie inputs
