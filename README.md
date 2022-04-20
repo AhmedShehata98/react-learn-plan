@@ -32,21 +32,20 @@ my source is : [ bashir pro react basics course ] ( https://www.youtube.com/play
 * [x] select 
 * [x] checkbox
 * [x] radio
-* [ ] handling multiplie inputs
+* [x] handling multiplie inputs
+
+## day [4] 20 ramadan :-
+    * ### before breakfast 
 * [ ] form about [formik]
 * [ ] formik first form
 * [ ] formik field type 
 * [ ] Fromik - Validation & ErrorMessage Component
-
-## day [4] 20 ramadan :-
-    * ### before breakfast 
-
 * [ ] formik nested objects
 * [ ] formik array of strings
 * [ ] Formik - FieldArray + Array of Objects
-* [ ] styling => adding class files
-   * ### after breakfast 
 
+   * ### after breakfast 
+* [ ] styling => adding class files
 * [ ] styling => dynamic class name
 * [ ] styling => set styles dynamiclly
 * [ ] Styling => using JS to set classes dynamically
