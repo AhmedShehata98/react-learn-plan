@@ -48,19 +48,28 @@ my source is : [ bashir pro react basics course ] ( https://www.youtube.com/play
 * [x] styling => adding class files
 * [x] styling => dynamic class name
 * [x] styling => set styles dynamiclly
+
+## day [5] 21 ramadan :-
+
+    * ### before breakfast
+
 * [x] Styling => using JS to set classes dynamically
 * [x] Styling => class names packages
 
-## day [5] 21 ramadan :-
+    * ### after breakfast 
+* [x] Http Requests => GET Request to fetch data from api
+* [x] Http ajax Requests => Delete user
+
+
+ ## day [5] 22 ramadan :-
     * ### before breakfast
 
-* [x] Http Requests => GET Request to fetch data from api
-* [ ] Http ajax Requests => Delete user 
-* [x] Http ajax Requests => Create UsersForm Component
+* [ ] Http ajax Requests => Create UsersForm Component
 * [ ] Http ajax Requests => Edit User
-    * ### after breakfast 
-
 * [ ] Http ajax Requests => Add User 
 * [ ] React Router => Basics
 * [ ] React Router => URL Parameters
 * [ ] React Router => Redirect
+
+    * ### after breakfast 
+* [ ] React Route => 
