@@ -36,16 +36,16 @@ my source is : [ bashir pro react basics course ] ( https://www.youtube.com/play
 
 ## day [4] 20 ramadan :-
     * ### before breakfast 
-* [ ] form about [formik]
-* [ ] formik first form
-* [ ] formik field type 
-* [ ] Fromik - Validation & ErrorMessage Component
-* [ ] formik nested objects
-* [ ] formik array of strings
-* [ ] Formik - FieldArray + Array of Objects
+* [x] form about [formik]
+* [x] formik first form
+* [x] formik field type 
+* [x] Fromik - Validation & ErrorMessage Component
+* [x] formik nested objects
+* [x] formik array of strings
+* [x] Formik - FieldArray + Array of Objects
 
    * ### after breakfast 
-* [ ] styling => adding class files
+* [x] styling => adding class files
 * [ ] styling => dynamic class name
 * [ ] styling => set styles dynamiclly
 * [ ] Styling => using JS to set classes dynamically
