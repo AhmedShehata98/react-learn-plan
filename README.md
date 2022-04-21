@@ -72,4 +72,8 @@ my source is : [ bashir pro react basics course ] ( https://www.youtube.com/play
 * [ ] React Router => Redirect
 
     * ### after breakfast 
-* [ ] React Route => 
+* [ ] React Router => React switch - add user
+* [ ] React Router => Nav link
+* [ ] React Route => no match 404
+* [ ] React Route => preventing transition
+* [ ] React Route => withRouter hoc
