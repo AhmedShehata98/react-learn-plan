@@ -46,17 +46,17 @@ my source is : [ bashir pro react basics course ] ( https://www.youtube.com/play
 
    * ### after breakfast 
 * [x] styling => adding class files
-* [ ] styling => dynamic class name
-* [ ] styling => set styles dynamiclly
-* [ ] Styling => using JS to set classes dynamically
-* [ ] Styling => class names packages
+* [x] styling => dynamic class name
+* [x] styling => set styles dynamiclly
+* [x] Styling => using JS to set classes dynamically
+* [x] Styling => class names packages
 
 ## day [5] 21 ramadan :-
     * ### before breakfast
 
-* [ ] Http Requests => GET Request to fetch data from api
+* [x] Http Requests => GET Request to fetch data from api
 * [ ] Http ajax Requests => Delete user 
-* [ ] Http ajax Requests => Create UsersForm Component
+* [x] Http ajax Requests => Create UsersForm Component
 * [ ] Http ajax Requests => Edit User
     * ### after breakfast 
 
