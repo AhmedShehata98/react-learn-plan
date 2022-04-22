@@ -34,11 +34,11 @@ course playlist :tv: : [Kimz code ](https://www.youtube.com/playlist?list=PLejc1
 * [ ] UseEffect, Effect when dependency change (component did update part 3 ) :clock1:
 * [ ] UseEffect, Effect when dependency change (component did update part 4 ) :clock1:
 
-* [ ]  Handling Events :clock1:
+<!-- * [ ]  Handling Events :clock1:
 * [ ]  Conditional Rendering :clock1:
 * [ ]  Lists and Keys :clock1:
 * [ ]  Forms :clock1:
 * [ ] Lifting State Up :clock1:
 * [ ] Composition vs Inheritance :clock1:
-* [ ] Thinking In React :clock1:
+* [ ] Thinking In React :clock1: -->
 
