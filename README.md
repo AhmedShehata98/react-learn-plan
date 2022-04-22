@@ -15,11 +15,25 @@ course playlist :tv: : [Kimz code ](https://www.youtube.com/playlist?list=PLejc1
 * [x]  Introducing JSX :white_check_mark:
 
     * ####  Hooks Use Effacte
-    * [x]  aBOUT useEffect. ✅:
+* [x]  about useEffect. ✅:
+* [x]  useEffect before star ✅:
+* [x]  code sand box  ✅:
+* [x]  the live cycle
+
+
+## Day [2]
 
 * [ ]  Rendering Elements :clock1:
 * [ ]  Components and Props :clock1: 
 * [ ]  State and Lifecycle :clock1:
+
+    * #### Hooks use Effacte
+
+* [ ] UseEffect, Effect when dependency change (component did update part 1 ) :clock1:
+* [ ] UseEffect, Effect when dependency change (component did update part 2 ) :clock1:
+* [ ] UseEffect, Effect when dependency change (component did update part 3 ) :clock1:
+* [ ] UseEffect, Effect when dependency change (component did update part 4 ) :clock1:
+
 * [ ]  Handling Events :clock1:
 * [ ]  Conditional Rendering :clock1:
 * [ ]  Lists and Keys :clock1:
