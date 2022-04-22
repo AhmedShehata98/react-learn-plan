@@ -9,16 +9,16 @@ my source is : [ react basics ]( https://reactjs.org/docs/getting-started.html )
 
 ## day [1]
 
-* [x]  Hello World
-* [x]  Introducing JSX
-* [ ]  Rendering Elements
-* [ ]  Components and Props
-* [ ]  State and Lifecycle
-* [ ]  Handling Events
-* [ ]  Conditional Rendering
-* [ ]  Lists and Keys
-* [ ]  Forms
-* [ ] Lifting State Up
-* [ ] Composition vs Inheritance
-* [ ] Thinking In React
+* [x]  Hello World :white_check_mark:
+* [x]  Introducing JSX :white_check_mark:
+* [ ]  Rendering Elements :clock1:
+* [ ]  Components and Props :clock1: 
+* [ ]  State and Lifecycle :clock1:
+* [ ]  Handling Events :clock1:
+* [ ]  Conditional Rendering :clock1:
+* [ ]  Lists and Keys :clock1:
+* [ ]  Forms :clock1:
+* [ ] Lifting State Up :clock1:
+* [ ] Composition vs Inheritance :clock1:
+* [ ] Thinking In React :clock1:
 
