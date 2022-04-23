@@ -23,8 +23,8 @@ course playlist :tv: : [Kimz code ](https://www.youtube.com/playlist?list=PLejc1
 
 ## Day [2]
 
-* [ ]  Rendering Elements :clock1:
-* [ ]  Components and Props :clock1: 
+* [x]  Rendering Elements ✅
+* [x]  Components and Props ✅
 * [ ]  State and Lifecycle :clock1:
 
     * #### Hooks use Effacte
