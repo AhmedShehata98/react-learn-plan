@@ -18,8 +18,9 @@ course playlist :tv: : [Kimz code ](https://www.youtube.com/playlist?list=PLejc1
 * [x]  about useEffect. ✅:
 * [x]  useEffect before star ✅:
 * [x]  code sand box  ✅:
-* [x]  the live cycle 
-* [ ]  Handle Events :clock8:
+* [x]  the live cycle ✅
+* [x]  Handle Events ✅
+* [ ]  IF Conditional ✅
 
 
 ## Day [2]
