@@ -18,20 +18,21 @@ course playlist :tv: : [Kimz code ](https://www.youtube.com/playlist?list=PLejc1
 * [x]  about useEffect. ✅:
 * [x]  useEffect before star ✅:
 * [x]  code sand box  ✅:
-* [x]  the live cycle
+* [x]  the live cycle 
+* [ ]  Handle Events :clock8:
 
 
 ## Day [2]
 
 * [x]  Rendering Elements ✅
 * [x]  Components and Props ✅
-* [ ]  State and Lifecycle :clock1:
+* [x]  State and Lifecycle ✅
 
     * #### Hooks use Effacte
 
-* [ ] UseEffect, Effect when dependency change (component did update part 1 ) :clock1:
-* [ ] UseEffect, Effect when dependency change (component did update part 2 ) :clock1:
-* [ ] UseEffect, Effect when dependency change (component did update part 3 ) :clock1:
+* [x] UseEffect, Effect when dependency change (component did update part 1 ) ✅
+* [x] UseEffect, Effect when dependency change (component did update part 2 ) ✅
+* [x] UseEffect, Effect when dependency change (component did update part 3 ) ✅
 * [ ] UseEffect, Effect when dependency change (component did update part 4 ) :clock1:
 
 <!-- * [ ]  Handling Events :clock1:
